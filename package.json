@@ -1,5 +1,5 @@
 {
-  "name": "react-contenteditable",
+  "name": "@artfh/react-contenteditable",
   "version": "3.3.6",
   "description": "React component representing an element with editable contents",
   "type": "module",
